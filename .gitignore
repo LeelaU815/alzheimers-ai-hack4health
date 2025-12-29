@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+.venv/
+env/
+models/clinical_model/data/*.csv
