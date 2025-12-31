@@ -79,7 +79,7 @@ All metrics and plots from evaluation files are saved to
 
 ### AI Tools Disclosure
 Generative AI tools were only used for
-* Code bugigng assistance
+* Code bugging assistance
 * Documentation suggesting
 All modeling decision, data processing, analysis, and written submission were created by Leela Unnikrishnan.
 
