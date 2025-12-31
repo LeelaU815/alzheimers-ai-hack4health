@@ -81,7 +81,8 @@ All metrics and plots from evaluation files are saved to
 Generative AI tools were only used for
 * Code bugging assistance
 * Documentation suggesting
-All modeling decision, data processing, analysis, and written submission were created by Leela Unnikrishnan.
+
+All modeling decisions, data processing, analysises, and written submissions were created by Leela Unnikrishnan.
 
 ### Limitations
 * MRI images are 2D slices instead of the full 3D scan
